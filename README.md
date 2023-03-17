@@ -1,5 +1,6 @@
 <div align="center">
-<img width="75%" height = "350px" src=https://images.yourstory.com/cs/1/b3c99c4d-ab5e-11e8-8691-f70342131e20/Cloud_computing_trends1554725958824.gif?fm=png&auto=format
+<img width="75%" height = "350px"
+src="https://images.yourstory.com/cs/1/b3c99c4d-ab5e-11e8-8691-f70342131e20/Cloud_computing_trends1554725958824.gif?fm=png&auto=format" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -37,7 +38,6 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://linktr.ee/azza_gaafar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
 <a href = 'https://www.linkedin.com/in/azza-gaafar/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
- 
 <a href = 'https://github.com/AZZA-GAAFAR'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
