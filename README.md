@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src=https://images.yourstory.com/cs/1/b3c99c4d-ab5e-11e8-8691-f70342131e20/Cloud_computing_trends1554725958824.gif?fm=png&auto=format
+<img width="75%" height = "350px" src=https://images.yourstory.com/cs/1/b3c99c4d-ab5e-11e8-8691-f70342131e20/Cloud_computing_trends1554725958824.gif?fm=png&auto=format
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
